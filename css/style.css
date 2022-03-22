@@ -105,8 +105,9 @@ header nav.navbar .logo_cover .input_box input{
     background-color: transparent;
     border: none;
     margin: 0 5px;
-    margin-right: 0;
+    margin-right: 0px;
     font-size: 18px;
+    width: 10px;
 }
 header nav.navbar .logo_cover .input_box .icon{
     width: 30px; height: 30px;
@@ -339,13 +340,13 @@ div.services{
     width: 90%;
     max-width: 500px;
     margin: 5px 0;
-    padding: 10px 20px;
+    padding: 10px ;
 }
 .contact_us .container .item textarea.input_longtext{
     height: 100px;
         max-width: 500px;
     width: 90%;
-    padding: 10px 20px;
+    padding: 10px;
     margin: 5px 0;
 }
 .contact_us .container .item h3{
